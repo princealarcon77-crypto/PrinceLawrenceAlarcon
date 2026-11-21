@@ -1,6 +1,6 @@
 # PrinceLawrenceAlarcon
 project
-<img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/c20f5d75-9fcc-488c-885b-62114e389113" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c20f5d75-9fcc-488c-885b-62114e389113" />
 
 # Hi, I'm Prince Lawrence E. Alarcon! 👋
 
