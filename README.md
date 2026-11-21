@@ -1,11 +1,16 @@
 # PrinceLawrenceAlarcon
-project
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c20f5d75-9fcc-488c-885b-62114e389113" />
+
+<img 
+  src="https://github.com/user-attachments/assets/c20f5d75-9fcc-488c-885b-62114e389113"
+  alt="Prince Lawrence Profile Photo"
+  width="180"
+  align="right"
+/>
 
 # Hi, I'm Prince Lawrence E. Alarcon! 👋
 
 ## About Me
-
+sss
 I am an Information Technology student at New Era University with an interest in programming and database management. I enjoy tackling complex problems and creating solutions through coding. My journey in technology started when I took the Bachelor of Science in Information Technology program.
 
 ## Education 🎓
