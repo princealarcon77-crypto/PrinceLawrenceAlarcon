@@ -39,5 +39,5 @@ New Era University
 
 ## You May Reach Me At 🌐
 
-- **LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_LINK)
-- **Email:** YOUR_PERSONAL_EMAIL
+- **LinkedIn:** [My LinkedIn Profile]www.linkedin.com/in/alarcon-prince-lawrence-e-90ab5b445)
+- **Email:**princealarcon77@gmail.com
